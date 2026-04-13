@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(openssl rand:*)",
+      "Bash(docker compose:*)",
+      "Bash(npm create:*)",
+      "Bash(npx create-vite@5 frontend -- --template react-ts)",
+      "Bash(rm -rf frontend)",
+      "Bash(npx create-vite@5 frontend --template react-ts)",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest add button input label card --yes)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npx tailwindcss:*)"
+    ]
+  }
+}

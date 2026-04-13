@@ -1,0 +1,8 @@
+.env
+.DS_Store
+*.swp
+*.swo
+frontend/node_modules
+frontend/dist
+backend/tmp
+
